@@ -1,0 +1,7 @@
+---
+title: "Object Oriented Marathon Boston 18"
+type: "challenge"
+description: "Build a zoo full of Ruby animals."
+tags: "oop, exceptions"
+ignore:
+- "object-oriented-marathon-bos18.md"
